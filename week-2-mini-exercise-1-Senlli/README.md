@@ -31,7 +31,7 @@ Add the below methods to your classes. Before writing each method remember to as
 
 
 ### Step 7: checkHealthStatus
-```Calculate BMI again, if the BMI is below 25 the user is "healthy" and if the BMI is above 25 the user is "unhealthy"```
+```Calculate BMI again, if the BMI is below 25 the user is "healthy" and if the }##E#BMI is above 25 the user is "unhealthy"```
 
   
 # test
